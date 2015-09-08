@@ -1,0 +1,5 @@
+setuptools
+six
+enum34
+jsonschema
+functools32
